@@ -10,4 +10,4 @@ Notebooks to run:
 NOTE - For the notebook to work, you MUST download the Yelp Dataset here: 
 * https://www.yelp.com/dataset/challenge
 
-Then you must run "Data_Extraction.ipynb" in the same directory as the Yelp Dataset json files. After that, any of the "Final_Analysis" notebooks.
+Then you must run "Data_Extraction.ipynb" in the same directory as the Yelp Dataset json files. After that, any of the "Final_Analysis" notebooks can be run.
